@@ -1,5 +1,5 @@
 # Handwritten Digit Recognition with PyTorch
-This repository contains code for training a deep learning model to recognize handwritten digits using PyTorch. The model is trained on the MNIST dataset and tested on custom images.
+This repository contains code for training a deep learning model to recognize handwritten digits using PyTorch. The model is trained on the **MNIST dataset** and tested on custom images.
 
 ## Features
 
